@@ -4,7 +4,7 @@ read meaning
 if [ "$meaning" -eq 42 ]; then
     echo "Yes! That is the meaning of life!"
 else
-    echo "Awww... You don't know the meaning of life"
+    echo "It is afternoon or evening"
 fi
 
 # here are some other arithmetic comparison operators
